@@ -295,7 +295,6 @@ StudyBee addresses the core problem of students tracking *how* they study, not j
   <img src="https://raw.githubusercontent.com/tusharvaskarsharma/tusharvaskarsharma/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
-> To enable the snake animation, add a GitHub Actions workflow at `.github/workflows/snake.yml` in your profile repository using `Platane/snk` action.
 
 ---
 
