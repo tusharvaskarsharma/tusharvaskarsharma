@@ -236,23 +236,6 @@ StudyBee addresses the core problem of students tracking *how* they study, not j
 
 ---
 
-## 📜 Certifications
-
-<p align="center"><strong>NPTEL</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/NPTEL-Python%20Programming-FF6B35?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms-FF6B35?style=for-the-badge&logo=code&logoColor=white"/>
-</p>
-
-<p align="center"><strong>Cisco / Other Platforms</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google-Cloud%20Vision%20API-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-Database%20%26%20Auth-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-</p>
-
----
-
 ## 💻 Coding Profiles
 
 <p align="center">
